@@ -3,16 +3,19 @@
 ## Overview
 
 This project is a SQL-based database system designed to manage
-and analyse air cargo logistics information.
+and analyse air cargo logistics and tracking information.
 
-## Objectives
+## Project Objectives
 
-- Track cargo and shipment information
-- Organise logistics data
-- Retrieve operational information using SQL
-- Support analysis of cargo movements and logistics activity
+The main objectives of this project are:
 
-## Technologies
+- Manage air cargo and shipment information
+- Organise logistics data in a structured database
+- Use SQL to retrieve and analyse operational data
+- Support efficient tracking of cargo information
+- Maintain accurate and consistent data
+
+## Technologies Used
 
 - SQL
 - Relational Database Design
@@ -22,12 +25,25 @@ and analyse air cargo logistics information.
 ## Key Features
 
 - Relational database structure
-- SQL queries for data retrieval and analysis
+- SQL queries for data retrieval
+- Cargo and shipment tracking
+- Data organisation and validation
+- Operational data analysis
+
+## Skills Demonstrated
+
+- SQL
+- Database design
+- Data management
 - Data validation
-- Operational logistics tracking
+- Analytical problem solving
 
-## What I Learned
+## Project Outcome
 
-This project helped me develop practical experience with
-relational database design, SQL queries, data organisation
-and analysing structured operational data.
+This project helped me develop practical experience in
+working with structured operational data, designing relational
+databases and using SQL to retrieve and analyse information.
+
+## Author
+
+Aiswarya Bynaboyina
